@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="knowledge cards">
+  <rect x="8" y="24" width="80" height="88" rx="12" fill="#4F46E5" opacity="0.3"/>
+  <rect x="32" y="12" width="88" height="88" rx="12" fill="#4F46E5"/>
+  <path d="M52 40h48M52 60h48M52 80h28" stroke="#FFFFFF" stroke-width="8" stroke-linecap="round"/>
+</svg>
