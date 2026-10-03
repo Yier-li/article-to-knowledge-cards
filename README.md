@@ -172,3 +172,7 @@ python <skill-creator>/scripts/quick_validate.py skills/make-knowledge-cards
 ```
 
 已在四类素材上实测：科普文、技术教程、观点评论、新闻短讯（信息不足场景）。
+
+## 许可证
+
+[MIT](./LICENSE) © 2026 Yier-li
